@@ -97,10 +97,10 @@ const LandingGenerator: React.FC<LandingGeneratorProps> = ({ addNotification, ap
                     <strong className="block mb-2 text-indigo-200">Nueva Estructura Incluida:</strong>
                     <ul className="list-disc pl-4 space-y-1 text-slate-400">
                         <li>Hero Section (Dolor Principal)</li>
-                        <li>Problema Central & Pérdida ($)</li>
+                        <li>Problema Central {'&'} Pérdida ($)</li>
                         <li>Cambio de Enfoque (IA vs Tradicional)</li>
                         <li>Solución Enfocada a Resultados</li>
-                        <li>Cómo Funciona (Diagnóstico -> Optimización)</li>
+                        <li>Cómo Funciona (Diagnóstico {'->'} Optimización)</li>
                         <li><strong>Escenario de ROI (Números Reales)</strong></li>
                         <li><strong>Prueba: Autoridad del Sistema</strong></li>
                         <li>CTA + Micro-Garantía</li>
